@@ -1,4 +1,5 @@
 Simple Quiz App 🎯
+
 A Simple Quiz App built with HTML, CSS, and JavaScript. This interactive quiz dynamically presents questions, evaluates user responses, and provides a score at the end. It’s designed to be lightweight, responsive, and beginner-friendly.
 
 Features ✨
